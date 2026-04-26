@@ -8,5 +8,6 @@ public class Sample {
         System.out.println("Shamik - Remote Change");
 
         System.out.println("Shamik - Local Change - v2");
+        System.out.println("Shamik - Remote Change - v2");
     }
 }
