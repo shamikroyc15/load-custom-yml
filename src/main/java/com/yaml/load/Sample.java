@@ -17,5 +17,7 @@ public class Sample {
         System.out.println("Shamik - Local Committed Change - v10");
         System.out.println("Shamik - Local Committed Change - v11");
         System.out.println("Shamik - Local Committed Change - v12");
+
+        // Merge Test - Sample.java
     }
 }
