@@ -18,5 +18,8 @@ public class LoadCustomYalmApplication {
 		System.out.println("Odisha abbr ::"+env.getProperty("india.odisha"));
 		System.out.println("Odisha abbr ::"+env.getProperty("india.odisha"));
 		System.out.println("Odisha abbr ::"+env.getProperty("india.odisha"));
+
+		System.out.println("Odisha abbr ::"+env.getProperty("Shamik.india"));
+		System.out.println("Odisha abbr ::"+env.getProperty("Shamik.india"));
 	}
 }
