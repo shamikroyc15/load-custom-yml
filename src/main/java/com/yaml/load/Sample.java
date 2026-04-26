@@ -10,6 +10,10 @@ public class Sample {
         System.out.println("Shamik - Local Change - v2");
         System.out.println("Shamik - Remote Change - v2");
 
+        System.out.println("Shamik - Local Change - v10");
+        System.out.println("Shamik - Local Change - v11");
+        System.out.println("Shamik - Local Change - v12");
+
         System.out.println("Shamik - Local Committed Change - v10");
         System.out.println("Shamik - Local Committed Change - v11");
         System.out.println("Shamik - Local Committed Change - v12");
