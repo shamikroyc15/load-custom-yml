@@ -9,5 +9,9 @@ public class YamlTest {
     System.out.println("This is Feature 2 local change - v1");
     System.out.println("This is Feature 1 local change - v1");
     System.out.println("This is Feature 1 local change - v1");
+
+    System.out.println("This is Feature 2 remote change - v1");
+    System.out.println("This is Feature 1 remote change - v1");
+    System.out.println("This is Feature 1 remote change - v1");
   }
 }
