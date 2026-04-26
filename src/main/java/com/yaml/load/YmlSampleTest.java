@@ -7,6 +7,9 @@ public class YmlSampleTest {
 
         System.out.println("This is Feature 2 change - local ");
         System.out.println("This is Feature 2 change - local ");
+
+        System.out.println("This is Feature 2 change - remote ");
+        System.out.println("This is Feature 2 change - remote ");
     }
 
 }
